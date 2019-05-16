@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d30ebe02-7d1f-4368-bcc0-ccb06837ecbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AtividadesUniAlfa-Teste-de-Software.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.gitignore1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.history/e9/c02a19fa3469001914b6d7e17afd73e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/48/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ajdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.configurator.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.frameworks.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.dashboard.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.core/index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.rse.core/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/properties/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/jmxremote.password" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/Servers/Pivotal tc Server Developer Edition v4.0-config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/docs/casosTeste.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/docs/especificacaoAvaliacaoEscolar.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/src/main/java/br/com/gilmar/Avaliacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/src/main/java/br/com/gilmar/ValoresInvalidosException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao-Escolar/src/test/java/AvaliacaoTesteAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/exceptions/InvalidDataBaseTypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/model/AlunoTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/model/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/model/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/model/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/model/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/base/BasicConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/base/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/base/CriaConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/base/PersistenciaJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/alteracao/AdicionaColunaTabelaDisciplinas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/alteracao/AdicionaColunaTabelaTurmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/alteracao/AdicionaFKTabelaAlunosTurmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/alteracao/AdicionaFKTabelaDisciplinas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/alteracao/AdicionaFKTabelaTurmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableAlunosCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableAlunosTurmasCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableCursosCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableDisciplinasCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableProfessoresCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableTurmasCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableAlunosDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableAlunosTurmasDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableCursosDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableDisciplinasDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableProfessoresDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableTurmasDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraAlunosTurmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraDisciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaAlunoTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaDisciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/exclusao/DeletaAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/exclusao/DeletaCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/exclusao/DeletaDisciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/exclusao/DeletaProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/exclusao/DeletaTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteAlunoTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteDisciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/FormataData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/GeraData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/GeraListaAlunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/GeraListaDisciplinas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/GeraListaProfessores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/GeraNota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/java/br/com/gilmarioarantes/jdbccrudv1/util/RandomTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/alter_table_alunos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/alunos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/areas_conhecimento.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/create_table_alunos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/create_table_cursos.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/disciplinas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/h2_console.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/log4j-application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/professores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/main/resources/professores_areas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/alteracao/TestaAlteracaoTabela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/criacao/TableCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/ddl/exclusao/TableDropTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraAlunoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraCursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraDisciplinaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraProfessorTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/alteracao/AlteraTurmaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaAlunoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaCursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaDisciplinaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaProfessorTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/consulta/ConsultaTurmaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/exclusao/ExclusaoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteAlunoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteCursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteDisciplinaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteProfessorTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteTurmaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/resources/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbccrudv1/src/test/test5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validacpf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validacpf/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validacpf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validacpf/src/main/java/br/com/gilmarioarantes/validacpf/model/ValidaCPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validacpf/src/test/java/Teste.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/validacpf/src/test/java/Teste.java" />
+        <option value="$PROJECT_DIR$/avaliacao-Escolar/src/test/java/AvaliacaoTesteAluno.java" />
+        <option value="$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteAlunoTeste.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AtividadesUniAlfa-Teste-de-Software" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtividadesUniAlfa-Teste-de-Software" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="AtividadesUniAlfa-Teste-de-Software" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="AtividadesUniAlfa-Teste-de-Software" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30ebe02-7d1f-4368-bcc0-ccb06837ecbd" name="Default Changelist" comment="" />
+      <created>1558020023629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558020023629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/validacpf/src/main/java/br/com/gilmarioarantes/validacpf/model/ValidaCPF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validacpf/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validacpf/nbproject/project.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validacpf/src/test/java/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/AtividadesUniAlfa-Teste-de-Software.iml" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbccrudv1/src/test/java/br/com/gilmarioarantes/jdbccrudv1/persistencia/dml/inclusao/PersisteAlunoTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avaliacao-Escolar/src/test/java/AvaliacaoTesteAluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
